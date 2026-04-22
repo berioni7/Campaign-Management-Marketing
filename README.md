@@ -16,7 +16,7 @@ Based on the hierarchical tree, I concluded that, in the scenario presented, sin
 
 In the third slide, the charts show that the majority of the audience (singles) do not purchase the products featured in the campaign. This suggests that a future campaign may need to be more impactful in order to appeal to both singles and new parents. One example would be how overwhelming adult life can be, with both partners juggling work, school, and household responsibilities.
 
-<img width="575" height="322" alt="image" src="https://github.com/user-attachments/assets/d4d56126-5447-460d-b09c-4a6693800f2d" />
+<img width="1148" height="644" alt="Captura de tela 2026-04-22 185619" src="https://github.com/user-attachments/assets/47068cc4-7738-4169-be12-8b3da7712c44" />
 
 In the last dashboard, which features two slightly more complex charts, we can see which countries spend the most and how their spending has changed over time, based on the socioeconomic characteristics defined in the previous dashboards. It is clear that the U.S. has greater purchasing power, with its spending having grown the most over time.
 
